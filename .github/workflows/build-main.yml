@@ -8,7 +8,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: chrisWRWX/wrangles-ml
+  IMAGE_NAME: chriswrwx/wrangles-ml
   IMAGE_TAG: latest
 
 jobs:
