@@ -1,0 +1,4 @@
+tensorflow==2.8
+gensim==4.2.0
+protobuf==3.20.*
+scikit-learn
