@@ -1,4 +1,4 @@
-FROM ghcr.io/wrangleworks/wrangles:0.5
+FROM ghcr.io/wrangleworks/wrangles:1.3.1
 
 COPY requirements.txt /tmp/
 
